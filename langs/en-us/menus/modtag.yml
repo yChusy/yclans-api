@@ -1,0 +1,25 @@
+Name: '&8Clans - Modtag'
+Size: 27
+Back slot: 18
+Items:
+   Letter1:
+      Slot: 12
+      Name: '&8Letter: [{letter}&8]'
+      Lore:
+      - ''
+      - '&7Click here to change the letter color.'
+      - ''
+   Letter2:
+      Slot: 13
+      Name: '&8Letter: [{letter}&8]'
+      Lore:
+      - ''
+      - '&7Click here to change the letter color.'
+      - ''
+   Letter3:
+      Slot: 14
+      Name: '&8Letter: [{letter}&8]'
+      Lore:
+      - ''
+      - '&7Click here to change the letter color.'
+      - ''

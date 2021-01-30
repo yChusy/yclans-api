@@ -1,0 +1,16 @@
+Name: '&8Clans - Online'
+Back slot: 18
+Size: 54
+Slots: [10, 11, 12, 13, 14, 15, 16, 19, 20, 21, 22, 23, 24, 25, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39, 40, 41, 42, 43]
+NextSlot: 18
+PreviousSlot: 26
+Banner:
+   Name: '&e[{tag}&e] {name}'
+   Lore:
+   - '&fLeader: {role} &f{nick}'
+   - '&fMembers ON: &7{on}/{total}'
+   - '&FMoney: &7{money}'
+   - '&fKills: &7{kills}'
+   - '&fDeaths: &7{deaths}'
+   - '&fKDR: &7{kdr}'
+   - '&fCreated on: &7{date} - {hour}'

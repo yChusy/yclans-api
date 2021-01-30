@@ -1,0 +1,39 @@
+Name: '&8Clans > Convites'
+Back slot: 19
+Block and allow slot: 10
+Size: 36
+Slots: [12, 13, 14, 15, 16, 21, 22, 23, 24, 25]
+Items:
+   Block:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 160
+      Data: 14
+      Glow: false
+      Name: '&cBloquear convites'
+      Lore:
+      - '&7Clique para não receber convites de clan.'
+   Allow:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 160
+      Data: 5
+      Glow: false
+      Name: '&aReceber convites'
+      Lore:
+      - '&7Clique para receber convites de clan.'
+   Invite:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 358
+      Data: 0
+      Glow: false
+      Name: '&e[{tag}&e] - {name}'
+      Lore:
+      - '&7Você foi convidado para entrar neste clan.'
+      - '&fBanco do clan: &a{money}&f.'
+      - '&fKDR: &7{kdr}&f.'
+      - '&fRecebeu em: &7{date} - {hour}&f.'
+      - ''
+      - '&eClique com o botão esquerdo para aceitar'
+      - '&eClique com o botão direito para recusar'

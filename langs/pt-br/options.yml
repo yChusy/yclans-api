@@ -1,0 +1,83 @@
+Options:
+   Create cost: 10000.0
+   Cancel ID: 'cancelar'
+   Chat leader: '&c#'
+   Chat captain: '&b+'
+   Chat trusted: '&f='
+   Chat member: '&7-'
+   Chat format: '&b&lCLAN &b[{tag}&b] {role} &f{nick}: &7{msg}'
+   Ally chat format: '&a&lALIADO &a[{tag}&a] {role} &f{player}: &7{msg}'
+   Spy format: '&8[C] [{tag}&8] [{name}] [{role}&8]{nick}: {msg}'
+   Ally spy format: '&8[A] &8- [{tag}&8] [{name}] [{role}&8]{player}: {msg}'
+   LegendChat tag: '&7[{tag}]'
+   LegendChat colortag: '&7[{tag}&7]'
+   LegendChat name: '&7[{name}&7]'
+   LegendChat symbol: ' {rolesymbol} '
+   Max members: 15 #pode colocar qualquer numero maior que 1
+   Max allies: 10 #se for maior que 10, não irá funcionar, o máximo é menor ou igual a 10
+   Max rivals: 10 #se for maior que 10, não irá funcionar, o máximo é menor ou igual a 10
+   Max menu newsletters: 5
+   Max newsletters: 20
+   Max name letters: 16
+   Ally chat command: 'a'
+   Clan chat command: 'c'
+   Hour format: '&7[{date} - {hour}] '
+   Placeholders:
+      Tag has: '&7[{tag}]'
+      Tag no has: '&7Sem clan'
+      Colortag has: '&7[{tag}&7]'
+      Colortag no has: '&7Sem clan'
+      Name has: '&7{name}'
+      Name no has: ''
+   Roles:
+      Nothing: 'Nenhum'
+      Member: 'Membro'
+      Trusted: 'Confiável'
+      Captain: 'Capitão'
+      Leader: 'Líder'
+   Newsletters:
+      Create: '&bO jogador &f{player} &bcriou o clan.'
+      Join: '&bO jogador &f{player} &bentrou para o clan.'
+      Leave: '&bO jogador &f{player} &bsaiu do clan.'
+      Kicked: '&bO jogador &f{player} &bfoi expulso por &f{player2}&b.'
+      Message: '{msg}'
+   Back:
+      CustomSkull: false
+      URL: ''
+      ID: 262
+      Data: 0
+      Glow: false
+      Name: '&7Voltar'
+      Lore:
+      - '&fClique para voltar.'
+   Next:
+      CustomSkull: false
+      URL: ''
+      ID: 262
+      Data: 0
+      Glow: false
+      Name: '&7Próximo'
+      Lore:
+      - '&fClique para ir à próxima página.'
+   Active friendly fire:
+    - 'world'
+    - 'world2'
+   Blocked friendly fire:
+    - 'world2'
+   Formats:
+    - ''
+    - ''
+    - 'K'
+    - 'M'
+    - 'B'
+   Color formats:
+    - '&0'
+    - '&1'
+    - '&2'
+    - '&3'
+    - '&4'
+    - '&5'
+    - '&6'
+    - '&7'
+    - '&8'
+    - '&9'

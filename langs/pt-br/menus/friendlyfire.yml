@@ -1,0 +1,24 @@
+Name: '&8Clans > Fogo amigo'
+Size: 27
+Back slot: 18
+Lore active:
+- '&7Estado: &aON'
+Lore normal:
+- '&7Estado &cOFF'
+Items:
+   Member:
+      Slot: 12
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/5e71ef39af4e33ebcf69a4be6379543c5015aaec76bab6fc3d862a75dfe3c47'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMembros'
+   Ally:
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/76cbae7246cc2c6e888587198c7959979666b4f5a4088f24e26e075f140ae6c3'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aAliados'

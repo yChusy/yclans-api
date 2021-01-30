@@ -1,0 +1,41 @@
+Name: '&8Clans - Money'
+Size: 27
+Back slot: 18
+Items:
+   Historic:
+      Slot: 12
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/e9f4aacfc627ee64a3257ad52783555f2b358cb7cccb864040997403a5b1bd52'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&8Clans - Transfers'
+      Formats:
+         Add: '&8[{date}] {role} &f{player} &7added &a+ {money}'
+         Remove: '&8[{date}] {role} &f{player} &7removed &c- {money}'
+         Buy: '&8[{date}] {role} &f{player} &7buyed something on market and spent &c- {money}'
+         Nothing: '&cYour clan do not have transfers yet.'
+   Add:
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/9aca891a7015cbba06e61c600861069fa7870dcf9b35b4fe15850f4b25b3ce0'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&8Clans - Add'
+      Lore:
+      - ''
+      - '&7Click to deposit an amount into clan bank.'
+      - ''
+   Remove:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/bfb7f558b6f67e8725326a69a85da26ae5b27c4473d25d5e9caac576b4d96433'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&8Clans - Remove'
+      Lore:
+      - ''
+      - '&7Click to withdraw an amount from clan bank.'
+      - ''

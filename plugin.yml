@@ -1,0 +1,9 @@
+name: yClans
+authors: [yChusy]
+version: 1.3.7-STABLE
+main: yclans.Main
+depend: [Vault]
+softdepend: [PlaceholderAPI, Legendchat, NametagEdit, OpeNChat, UltimateChat]
+load: POSTWORLD
+commands:
+   clan:

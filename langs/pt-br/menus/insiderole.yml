@@ -1,0 +1,114 @@
+Name member: '&8Clans > Cargos > Membro'
+Name trusted: '&8Clans > Cargos > Confiável'
+Name captain: '&8Clans > Cargos > Capitão'
+Size: 45
+Back slot: 18
+Lore has:
+- '&7Clique para &cdesabilitar&7 esta permissão'
+Lore normal:
+- '&7Clique para &ahabilitar&7 esta permissão'
+Items:
+   Kick:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/7e3deb57eaa2f4d403ad57283ce8b41805ee5b6de912ee2b4ea736a9d1f465a7'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para expulsar'
+   Chest:
+      Slot: 12
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/95732d3e57b9a62159b35d2754574452a32b4c221fc4fd363bff522ff04a577e'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para para abrir baú do clan'
+   Home:
+      Slot: 13
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/7b56e49085f55d5de215afd26fc4f1afe9c34313eff98e3e58245def06e5858c'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para ir até base do clan'
+   Deposit bank:
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/e36e94f6c34a35465fce4a90f2e25976389eb9709a12273574ff70fd4daa6852'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para depositar no banco do clan'
+   Withdraw bank:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/e36e94f6c34a35465fce4a90f2e25976389eb9709a12273574ff70fd4daa6852'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para remover coins do banco do clan'
+   Invite:
+      Slot: 20
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/17fcfe3931fa9fc3c81eda9d374153d88aeea6b1d035d57e5fae312ef0a291a0'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para convidar jogadores'
+   Add ally:
+      Slot: 21
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/76cbae7246cc2c6e888587198c7959979666b4f5a4088f24e26e075f140ae6c3'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para adicionar aliado'
+   Remove ally:
+      Slot: 22
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/76cbae7246cc2c6e888587198c7959979666b4f5a4088f24e26e075f140ae6c3'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para remover aliado'
+   Add rival:
+      Slot: 23
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para adicionar rival'
+   Remove rival:
+      Slot: 29
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para remover rival'
+   Newsletters:
+      Slot: 30
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/9c06e0b1e78f6e6970e7393639ba1ae0582a9e3f0969431604853db905f3b81'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para adicionar boletins do clan'
+   Friendly fire:
+      Slot: 31
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4d859f7b3cdfdad47182884e127f461fe8f9fc52f7d150427c117079b0924e3'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para gerenciar o fogo amigo'
+   Buy market:
+      Slot: 32
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/7e3deb57eaa2f4d403ad57283ce8b41805ee5b6de912ee2b4ea736a9d1f465a7'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aPermissão para comprar itens no mercado do clan'

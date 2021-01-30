@@ -1,0 +1,39 @@
+Name: '&8Clans > Base do clan'
+Size: 27
+Back slot: 18
+Items:
+   Set:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/8271a47104495e357c3e8e80f511a9f102b0700ca9b88e88b795d33ff20105eb'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aSetar local da casa'
+      Lore:
+      - '&7Clique para setar a base do clan'
+      - '&7no local que você está.'
+   Go:
+      Slot: 13
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/7b56e49085f55d5de215afd26fc4f1afe9c34313eff98e3e58245def06e5858c'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aIr para a casa'
+      Lore has:
+      - '&7Clique para ir até sua base do clan.'
+      - '&C7oordenadas:: X:&a{x} &7Y:&a{y} &7Z:&a{z}'
+      Lore dont has:
+      - '&cAlgo de errado não está certo!'
+      - '&cSeu clan não possui uma base do clan'
+   Delete:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/69ea1d86247f4af351ed1866bca6a3040a06c68177c78e42316a1098e60fb7d3'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cDeletar casa'
+      Lore:
+      - '&7Clique para deletar a base do clan.'

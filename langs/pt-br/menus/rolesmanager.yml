@@ -1,0 +1,37 @@
+Name: '&8Clans > Gerenciando Cargos'
+Size: 27
+Back slot: 18
+Items:
+   Member:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/5e71ef39af4e33ebcf69a4be6379543c5015aaec76bab6fc3d862a75dfe3c47'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&7Membro'
+      Lore:
+      - '&7Clique para gerenciar as permissões.'
+      - '&7deste cargo'
+   Trusted:
+      Slot: 13
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4b100a785566e76beb70b02fd1f11ee0f7aa7721a41300cc4acfdfa3513d33d9'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&fConfiável'
+      Lore:
+      - '&7Clique para gerenciar as permissões.'
+      - '&7deste cargo'
+   Captain:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/893dc2ce2909f3525b2d04d1113be124939fa2b7b9fb1c6876a197d1682a'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&bCapitão'
+      Lore:
+      - '&7Clique para gerenciar as permissões.'
+      - '&7deste cargo'

@@ -1,0 +1,209 @@
+Name: '&8Clans - Principal'
+Size: 54
+LeaveDisbandSlot: 40
+Items:
+   Profile:
+      Slot: 10
+      CustomSkull: true
+      URL: '{player}'
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&a[{tag}&a] &f{player}'
+      Lore:
+      - ''
+      - '&fMoney: &a{money}&f.'
+      - '&fKills: &a{kills}&f.'
+      - '&fDeaths: &a{deaths}&f.'
+      - '&fKDR: &a{kdr}&f.'
+      - '&fRole: &f[{rolesymbol}&f] {role}&f.'
+      - ''
+   Top:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/a32ae2cb8d2ae615141d2c65892f364fcaddf73fdec99be1aa6874863eeb5c'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&5TOP Clans'
+      Lore:
+      - ''
+      - '&7Click here to see the best clans on server.'
+      - ''
+   Online:
+      Slot: 16
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/c641682f43606c5c9ad26bc7ea8a30ee47547c9dfd3c6cda49e1c1a2816cf0ba'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&eOnline clans'
+      Lore:
+      - ''
+      - '&7Click here to see the online clans actually.'
+      - ''
+   Money:
+      Active: true
+      Slot: 38
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/e36e94f6c34a35465fce4a90f2e25976389eb9709a12273574ff70fd4daa6852'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&2Money'
+      Lore:
+      - ''
+      - '&7Click here to access a menu with more informations.'
+      - ''
+      - '&fClan money: &a{clanbalance}&f.'
+      - '&fYour money: &a{money}&f.'
+      - ''
+   Chest:
+      Active: true
+      Slot: 31
+      CustomSkull: false
+      URL: ''
+      ID: 54
+      Data: 0
+      Glow: false
+      Name: '&bClan chest'
+      Lore:
+      - ''
+      - '&7Click here to access the clan chest.'
+      - ''
+   Home:
+      Active: true
+      Slot: 39
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4528ed45802400f465b5c4e3a6b7a9f2b6a5b3d478b6fd84925cc5d988391c7d'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&bClan home'
+      Lore:
+      - ''
+      - '&7Click here to manage and access your clan home.'
+      - ''
+   Invite:
+      Slot: 30
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/17fcfe3931fa9fc3c81eda9d374153d88aeea6b1d035d57e5fae312ef0a291a0'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aClan Invite'
+      Lore has:
+      - ''
+      - '&7Click here to invite members to your clan.'
+      - ''
+      Lore max:
+      - ''
+      - '&cYour clan reached the max members.'
+      - ''
+   Allies:
+      Slot: 28
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/db9ffd85bf0283a588706e3d27afb9d4917e06f2ba717c1aea68dc79393b91f4'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aClan Allies'
+      Lore:
+      - ''
+      - '&7Click here to manage your allies.'
+      - ''
+   Rivals:
+      Slot: 29
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4664f9c5ed331d7ff4555ff80b088a9e5e111b549bffe32bed6ff29d3a9b4f7f'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cClan Rivals'
+      Lore:
+      - ''
+      - '&7Click here to manage your rivals.'
+      - ''
+   Newsletters:
+      Slot: 43
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4692dda3eb3d6ff4cab721cc5c0ef8f291ac0f9f1da9dfda873cb08c6e1985d2'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&dNewsletters'
+      Lore has:
+      - ''
+      - '&7Left click to see the full version.'
+      - '&7Right click to add a new one.'
+      - '&7Middle click to clear all newsletters.'
+      Lore normal:
+      - ''
+      - '&cYour clan do not have newsletters yet.'
+      - '&7Right click to add a first one.'
+      - ''
+   Info:
+      Slot: 34
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/cd91f51266eddc6207f12ae8d7a49c5db0415ada04dab92bb7686afdb17f4d4e'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&dInfo'
+      Lore:
+      - '&fLeader: {role} &f{nick}'
+      - '&fMembers ON: &7{on}/{total}'
+      - '&FMoney: &7{money}'
+      - '&fKills: &7{kills}'
+      - '&fDeaths: &7{deaths}'
+      - '&fKDR: &7{kdr}'
+      - '&fCreated on: &7{date} - {hour}'
+   Clan manager:
+      Slot: 37
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/62fbf44e5b8831a9e8cc3ca372b6426a06856d215919448634f8f9b51ef93af0'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cClan manager'
+      Lore:
+      - ''
+      - '&7Click to manage your clan.'
+      - ''
+   Leave:
+      Slot: 40
+      CustomSkull: false
+      URL: ''
+      ID: 166
+      Data: 0
+      Glow: true
+      Name: '&cLeave clan'
+      Lore:
+      - ''
+      - '&7Click to leave your clan.'
+      - ''
+   Disband:
+      CustomSkull: false
+      URL: ''
+      ID: 166
+      Data: 0
+      Glow: true
+      Name: '&cDisband'
+      Lore:
+      - ''
+      - '&7Click to disband your clan.'
+      - ''
+   Market:
+      Active: true
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/7e3deb57eaa2f4d403ad57283ce8b41805ee5b6de912ee2b4ea736a9d1f465a7'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMarket'
+      Lore:
+      - ''
+      - '&7Click to buy things with your clan money.'
+      - ''
+     

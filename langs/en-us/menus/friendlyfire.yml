@@ -1,0 +1,28 @@
+Name: '&8Clans - Friendly fire'
+Size: 27
+Back slot: 18
+Lore active:
+- ''
+- '&7State: &aON&7.'
+- ''
+Lore normal:
+- ''
+- '&7State: &cOFF&7.'
+- ''
+Items:
+   Member:
+      Slot: 12
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/cb8d66880bbdfe1939271871ec278e38476a075909184a613affeac40621daab'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMembers'
+   Ally:
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/31885b918104e6aa62b6ec9b8e82028dd9da7d2acdfe9c2155edd392285b57e1'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aAllies'

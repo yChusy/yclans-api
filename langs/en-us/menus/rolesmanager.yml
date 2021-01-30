@@ -1,0 +1,40 @@
+Name: '&8Clans - Roles manager'
+Size: 27
+Back slot: 18
+Items:
+   Member:
+      Slot: 13
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/e9f4aacfc627ee64a3257ad52783555f2b358cb7cccb864040997403a5b1bd52'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMember'
+      Lore:
+      - ''
+      - '&7Click here to manage the role Member.'
+      - ''
+   Trusted:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/8362438ff4ecf8f4a2caa1277561c9513c9a986dbe38a80b9bafcbfed8b2a9c8'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aTrusted'
+      Lore:
+      - ''
+      - '&7Click here to manage the role Trusted.'
+      - ''
+   Captain:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/fd7e1737d7479c92ed06f6188cde454c08e6defead8c7ad996051ab03762d9e8'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aCaptain'
+      Lore:
+      - ''
+      - '&7Click here to manage the role Captain.'
+      - ''

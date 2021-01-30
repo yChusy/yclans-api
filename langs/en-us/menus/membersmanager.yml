@@ -1,0 +1,20 @@
+Size: 54
+Slots: [10, 11, 12, 13, 14, 15, 16, 19, 20, 21, 22, 23, 24, 25, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39, 40, 41, 42, 43]
+NextSlot: 18
+PreviousSlot: 26
+Name: '&8Clans - Members manager'
+Back slot: 16
+Item:
+   CustomSkull: true
+   URL: 'http://textures.minecraft.net/texture/a32ae2cb8d2ae615141d2c65892f364fcaddf73fdec99be1aa6874863eeb5c'
+   ID: 0
+   Data: 0
+   Glow: true
+   Name: '&f{player}'
+   Lore:
+   - '&fKills: &e{kills}'
+   - '&fDeaths: &e{deaths}'
+   - '&fKDR: &e{kdr}'
+   - '&fRole: [{rolesymbol}&f] {role}'
+   - ''
+   - '&eClick to manage this member.'

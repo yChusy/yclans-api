@@ -1,0 +1,43 @@
+Name: '&8Clans - Ally invitations'
+Back slot: 19
+Block and allow slot: 10
+Size: 36
+Slots: [12, 13, 14, 15, 16, 21, 22, 23, 24, 25]
+Items:
+   Block:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 160
+      Data: 14
+      Glow: false
+      Name: '&cBlock ally invitation receivement'
+      Lore:
+      - ''
+      - '&7Click to block clans to invite ally to you.'
+      - ''
+   Allow:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 160
+      Data: 5
+      Glow: false
+      Name: '&aAllow ally invitation receivement'
+      Lore:
+      - ''
+      - '&7Click to allow clans to invite ally to you.'
+      - ''
+   Invite:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 358
+      Data: 0
+      Glow: false
+      Name: '&e[{tag}&e] - {name}'
+      Lore:
+      - '&7You have been invited to ally with this clan.'
+      - '&fClan bank: &a{money}&f.'
+      - '&fKDR: &7{kdr}&f.'
+      - '&fReceived at: &7{date} - {hour}&f.'
+      - ''
+      - '&eClick with left button to accept.'
+      - '&eClick with right button to decline.'

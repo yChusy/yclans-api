@@ -1,0 +1,118 @@
+Name member: '&8Clans - Member management'
+Name trusted: '&8Clans - Trusted management'
+Name captain: '&8Clans - Captain management'
+Size: 45
+Back slot: 18
+Lore has:
+- ''
+- '&7Click to &cdisable &7this permission'
+- ''
+Lore normal:
+- ''
+- '&7Click to &aenable &7this permission'
+- ''
+Items:
+   Kick:
+      Slot: 11
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Kick'
+   Chest:
+      Slot: 12
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Use chest'
+   Home:
+      Slot: 13
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Go Home'
+   Deposit bank:
+      Slot: 14
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Deposit into Bank'
+   Withdraw bank:
+      Slot: 15
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Withdraw from Bank'
+   Invite:
+      Slot: 20
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Invite Players'
+   Add ally:
+      Slot: 21
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Add Ally'
+   Remove ally:
+      Slot: 22
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Remove Ally'
+   Add rival:
+      Slot: 23
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Add Rival'
+   Remove rival:
+      Slot: 29
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Remove Rival'
+   Newsletters:
+      Slot: 30
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Add Newsletters'
+   Friendly fire:
+      Slot: 31
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to Toggle Friendly Fire'
+   Buy market:
+      Slot: 32
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aPermission to allow buy on market'

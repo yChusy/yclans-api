@@ -1,0 +1,59 @@
+Name: '&8Clans > Sem clan'
+Size: 27
+Items:
+   Create:
+      Slot: 10
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/9a2d891c6ae9f6baa040d736ab84d48344bb6b70d7f1a280dd12cbac4d777'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aCriar um clan'
+      Lore:
+      - '&7Clique para criar seu clan.'
+   Online:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/adf782cae2dd5397c4845fe14fba3617246d3c4fa55010d21bb6214be137bd'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aClans online'
+      Lore:
+      - '&7Clique para ver os clans online.'
+   Invitations:
+      Slot: 12
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 358
+      Data: 0
+      Glow: false
+      Name: '&aConvite de clans'
+      Lore:
+      - '&fGerencie os convites de clan feito para você.'
+   Top:
+      Slot: 13
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: 'http://textures.minecraft.net/texture/15a7ee9a86de203674a93b570bc8992e500363dd32f2b9813daaeeabccf92151'
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&5TOP Clans'
+      Lore:
+      - '&7Veja os Top Clans da atualidade !'
+      - '&f-> Money, KDR e Guerras.'
+   Profile:
+      Slot: 16
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: '{player}'
+      ID: 425
+      Data: 0
+      Glow: false
+      Name: '&f{player}'
+      Lore:
+      - ''
+      - '&fMoney: &a{money}&f.'
+      - '&fKills: &a{kills}&f.'
+      - '&fMortes: &a{deaths}&f.'
+      - '&fKDR: &a{kdr}&f.'
+      - ''

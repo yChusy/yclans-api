@@ -1,0 +1,182 @@
+Name: '&8Clans > Principal'
+Size: 54
+LeaveDisbandSlot: 40
+Items:
+   Profile:
+      Slot: 10
+      CustomSkull: true
+      URL: '{player}'
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&f[{tag}&f] &7{player}'
+      Lore:
+      - '&7Veja seu perfil:'
+      - ''
+      - '&fMoney: &a{money}'
+      - '&fKills: &7{kills}'
+      - '&fMortes: &7{deaths}'
+      - '&fKDR: &7{kdr}'
+      - '&fCargo: {rolesymbol} {role}'
+      - ''
+   Top:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/15a7ee9a86de203674a93b570bc8992e500363dd32f2b9813daaeeabccf92151'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&5TOP Clans'
+      Lore:
+      - '&7Veja os Top Clans da atualidade !'
+      - '&f-> Money, KDR e Guerras.'
+   Online:
+      Slot: 16
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/adf782cae2dd5397c4845fe14fba3617246d3c4fa55010d21bb6214be137bd'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aClans online'
+      Lore:
+      - '&7Clique para ver os clans online.'
+   Money:
+      Active: true
+      Slot: 31
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/e36e94f6c34a35465fce4a90f2e25976389eb9709a12273574ff70fd4daa6852'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&2Coins'
+      Lore:
+      - '&7Gerencie da melhor forma seus coins!'
+      - ''
+      - '&fMoney do clan: &a{clanbalance}&f.'
+      - '&fSeu money: &a{money}&f.'
+   Chest:
+      Active: true
+      Slot: 29
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/95732d3e57b9a62159b35d2754574452a32b4c221fc4fd363bff522ff04a577e'
+      ID: 54
+      Data: 0
+      Glow: false
+      Name: '&bBaú do clan'
+      Lore:
+      - '&7Clique para acessar e gerenciar o baú do clan.'
+   Home:
+      Active: true
+      Slot: 28
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/7b56e49085f55d5de215afd26fc4f1afe9c34313eff98e3e58245def06e5858c'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&bBase do clan'
+      Lore:
+      - '&7Clique para gerenciar e teleportar à base do clan.'
+   Invite:
+      Slot: 30
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/17fcfe3931fa9fc3c81eda9d374153d88aeea6b1d035d57e5fae312ef0a291a0'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aConvidar'
+      Lore has:
+      - '&7Clique para convidar jogadores ao teu clan.'
+      Lore max:
+      - '&cEita!! Seu clan está no limite de membros.'
+   Allies:
+      Slot: 37
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/76cbae7246cc2c6e888587198c7959979666b4f5a4088f24e26e075f140ae6c3'
+      Data: 0
+      Glow: true
+      Name: '&aAliados'
+      Lore:
+      - '&7Clique para gerenciar seus aliados.'
+   Rivals:
+      Slot: 38
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cRivais'
+      Lore:
+      - '&7Clique para gerenciar seus rivais.'
+   Newsletters:
+      Slot: 43
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/9c06e0b1e78f6e6970e7393639ba1ae0582a9e3f0969431604853db905f3b81'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&dBoletins'
+      Lore has:
+      - ''
+      - '&7Botão esquerdo para ver a versão completa.'
+      - '&7Botão direito para adicionar um novo.'
+      - '&7Botão do meio para limpar os boletins.'
+      Lore normal:
+      - ''
+      - '&bSeu clan não possui boletins ainda.'
+      - '&7Botão direito para adicionar o primeiro.'
+      - ''
+   Info:
+      Slot: 34
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/2fd253c4c6d66ed6694bec818aac1be7594a3dd8e59438d01cb76737f959'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&dInformações do clan'
+      Lore:
+      - '&fLíder: {role} &f{nick}'
+      - '&fMembros ON: &7{on}/{total}'
+      - '&FMoney: &7{money}'
+      - '&fKills: &7{kills}'
+      - '&fMortes: &7{deaths}'
+      - '&fKDR: &7{kdr}'
+      - '&fCriado em: &7{date} - {hour}'
+   Clan manager:
+      Slot: 39
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/62fbf44e5b8831a9e8cc3ca372b6426a06856d215919448634f8f9b51ef93af0'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cConfigurar Clan'
+      Lore:
+      - '&7Clique para gerenciar seu clan.'
+   Leave:
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/3ed1aba73f639f4bc42bd48196c715197be2712c3b962c97ebf9e9ed8efa025'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cSair'
+      Lore:
+      - '&7Clique para sair do seu clan.'
+   Disband:
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/3ed1aba73f639f4bc42bd48196c715197be2712c3b962c97ebf9e9ed8efa025'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cDesfazer'
+      Lore:
+      - '&7Clique para desfazer seu clan.'
+   Market:
+      Active: true
+      Slot: 14 
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/7e3deb57eaa2f4d403ad57283ce8b41805ee5b6de912ee2b4ea736a9d1f465a7'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMercado'
+      Lore:
+      - '&7Clique para gastar o money do clan.'

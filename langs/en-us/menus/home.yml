@@ -1,0 +1,45 @@
+Name: '&8Clans - Home'
+Size: 27
+Back slot: 18
+Items:
+   Set:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/bfb7f558b6f67e8725326a69a85da26ae5b27c4473d25d5e9caac576b4d96433'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&8Clans - Home Set'
+      Lore:
+      - ''
+      - '&7Click to set your clan home.'
+      - ''
+   Go:
+      Slot: 13
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/bfb7f558b6f67e8725326a69a85da26ae5b27c4473d25d5e9caac576b4d96433'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&8Clans - Go home'
+      Lore has:
+      - ''
+      - '&7Click to go to your clan base.'
+      - '&7Coords: X:&a{x} &7Y:&a{y} &7Z:&a{z}'
+      - ''
+      Lore dont has:
+      - ''
+      - '&cYour clan do not have a base yet.'
+      - ''
+   Delete:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/bfb7f558b6f67e8725326a69a85da26ae5b27c4473d25d5e9caac576b4d96433'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&8Clans - Home Delete'
+      Lore:
+      - ''
+      - '&7Click to delete your clan home.'
+      - ''

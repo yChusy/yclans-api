@@ -1,0 +1,76 @@
+Name: '&8Clans - Clan manager'
+Size: 27
+Back slot: 18
+Items:
+   Member:
+      Slot: 10
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/cf4666defb437f35e69f2231190ec7992b6c4d85791ac5b3b47d14f5554e3c5b'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMembers manager'
+      Lore:
+      - ''
+      - '&7Click here to manage your clan members.'
+      - ''
+   Roles:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/818f83eb64f438e3f6ae3a5c2dea8ed10303bad85ac34a798659a275aa096506'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aRoles manager'
+      Lore:
+      - ''
+      - '&7Click here to manage your clan roles permissions.'
+      - ''
+   Friendly fire:
+      Slot: 12
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aFriendly fire'
+      Lore:
+      - ''
+      - '&7Click here to manage the friendly fire.'
+      - ''
+   Modtag:
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/fd7e1737d7479c92ed06f6188cde454c08e6defead8c7ad996051ab03762d9e8'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aModTag'
+      Lore:
+      - ''
+      - '&7Click here to modify your clan tag.'
+      - ''
+   Transfer leadership:
+      Slot: 15
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aTransfer leadership'
+      Lore:
+      - ''
+      - '&7Click here to transfer clan leadership.'
+      - ''
+   Change name:
+      Slot: 16
+      CustomSkull: false
+      URL: ''
+      ID: 377
+      Data: 0
+      Glow: true
+      Name: '&aChange name'
+      Lore:
+      - ''
+      - '&7Click here to change your clan name.'
+      - ''

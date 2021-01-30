@@ -1,0 +1,86 @@
+Options:
+   Create cost: 100000.0
+   Cancel ID: 'cancel' #it's used to cancel the clan creation
+   Chat leader: '&c#'
+   Chat captain: '&b+'
+   Chat trusted: '&b='
+   Chat member: '&8-'
+   Chat format: '&b[{tag}&b] [{name}] [{role}&b]{nick}&8: &f{msg}'
+   Ally chat format: '&a&l[A] &f- &e[{tag}&e] [{name}] &f[{role}&f]&e{player}&f: {msg}'
+   Spy format: '&8[C] [{tag}&8] [{name}] [{role}&8]{nick}: {msg}'
+   Ally spy format: '&8[A] &8- [{tag}&8] [{name}] [{role}&8]{player}: {msg}'
+   LegendChat tag: '&7[{tag}]'
+   LegendChat colortag: '&7[{tag}&7]'
+   LegendChat name: '&7[{name}&7]'
+   LegendChat symbol: ' {rolesymbol} '
+   Max members: 15 #you can put any number above 1
+   Max allies: 10 #if higher than 10, it's doesn't work, the max you can set any number below 10
+   Max rivals: 10 #if higher than 10, it's doesn't work, the max you can set any number below 10
+   Max menu newsletters: 5
+   Max newsletters: 20
+   Max name letters: 16
+   Ally chat command: '.'
+   Clan chat command: 'ally'
+   Hour format: '&7[{date} - {hour}] '
+   Placeholders:
+      Tag has: '&7[{tag}]'
+      Tag no has: '&7No clan'
+      Colortag has: '&7[{tag}&7]'
+      Colortag no has: '&7No clan'
+      Name has: '&7{name}'
+      Name no has: ''
+   Roles:
+      Nothing: 'NOTHING'
+      Member: 'MEMBER'
+      Trusted: 'TRUSTED'
+      Captain: 'CAPTAIN'
+      Leader: 'LEADER'
+   Newsletters:
+      Create: '&bThe player &f{player} &bcreated the clan.'
+      Join: '&bThe player &f{player} &bjoined the clan.'
+      Leave: '&bThe player &f{player} &bleft from the clan.'
+      Kicked: '&bThe player &f{player} &bhas kicked by &f{player2}&b.'
+      Message: '{msg}'
+   Back:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 262
+      Data: 0
+      Glow: false
+      Name: '&8Back'
+      Lore:
+      - ''
+      - '&eClick to go back.'
+      - ''
+   Next:
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 262
+      Data: 0
+      Glow: false
+      Name: '&8Next'
+      Lore:
+      - ''
+      - '&eClick to go to the next page.'
+      - ''
+   Active friendly fire:
+    - 'world'
+   Blocked friendly fire:
+    - 'world2'
+   Formats:
+    - ''
+    - ''
+    - 'K'
+    - 'M'
+    - 'B'
+   Color formats:
+    - '&0'
+    - '&1'
+    - '&2'
+    - '&3'
+    - '&4'
+    - '&5'
+    - '&6'
+    - '&7'
+    - '&8'
+    - '&9'

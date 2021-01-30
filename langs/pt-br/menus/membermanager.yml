@@ -1,0 +1,44 @@
+Name: '&8Clans > Gerenciando Membros'
+Size: 27
+Back slot: 18
+Items:
+   Member:
+      Slot: 10
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: 'http://textures.minecraft.net/texture/5e71ef39af4e33ebcf69a4be6379543c5015aaec76bab6fc3d862a75dfe3c47'
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&7- Membro'
+      Lore:
+      - '&7Clique para mudar o cargo de: {nick} para &7- Membro'
+   Trusted:
+      Slot: 12
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: 'http://textures.minecraft.net/texture/4b100a785566e76beb70b02fd1f11ee0f7aa7721a41300cc4acfdfa3513d33d9'
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&f= Confiável'
+      Lore:
+      - '&7Clique para mudar o cargo de: {nick} para &f= Confiável'
+   Captain:
+      Slot: 14
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: 'http://textures.minecraft.net/texture/893dc2ce2909f3525b2d04d1113be124939fa2b7b9fb1c6876a197d1682a'
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&b+ Capitão'
+      Lore:
+      - '&7Clique para mudar o cargo de: {nick} para &b+ Capitão'
+   Kick:
+      Slot: 16
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: 'http://textures.minecraft.net/texture/3ed1aba73f639f4bc42bd48196c715197be2712c3b962c97ebf9e9ed8efa025'
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&cExpulsar'
+      Lore:
+      - '&7Clique para expulsar este jogador.'

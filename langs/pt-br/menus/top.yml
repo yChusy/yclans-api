@@ -1,0 +1,24 @@
+Size: 27
+Name: '&8Clans - TOP'
+Back slot: 11
+Items:
+   Money:
+      Slot: 13
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/8381c529d52e03cd74c3bf38bb6ba3fde1337ae9bf50332faa889e0a28e8081f'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMoney'
+      Lore:
+      - '&7Clique para ver os clans mais ricos.'
+   KDR:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/50dfc8a3563bf996f5c1b74b0b015b2cceb2d04f94bbcdafb2299d8a5979fac1'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&bKDR'
+      Lore:
+      - '&7Clique para ver os clans mais fortes.'

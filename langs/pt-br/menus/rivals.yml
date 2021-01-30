@@ -1,0 +1,28 @@
+Name: '&8Clans > Rivais'
+Back slot: 19
+Size: 36
+Slots: [12, 13, 14, 15, 16, 21, 22, 23, 24, 25]
+Items:
+   Add:
+      Slot: 10
+      CustomSkull: true
+      URL: 'ttp://textures.minecraft.net/texture/17fcfe3931fa9fc3c81eda9d374153d88aeea6b1d035d57e5fae312ef0a291a0'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aAdicionar um rival'
+      Lore:
+      - '&7Clique para adicionar um rival'
+Banner:
+   Name: '&e[{tag}&e] {name}'
+   Lore:
+   - '&fLíder: {role} &f{nick}'
+   - '&fMembros ON: &7{on}/{total}'
+   - '&FMoney: &7{money}'
+   - '&fKills: &7{kills}'
+   - '&fMortes: &7{deaths}'
+   - '&fKDR: &7{kdr}'
+   - '&fCriado em: &7{date} - {hour}'
+   - ''
+   - '&7Clique com o botão direito para'
+   - '&7retirar a rivalidade'

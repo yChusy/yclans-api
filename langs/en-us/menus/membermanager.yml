@@ -1,0 +1,52 @@
+Name: '&8Clans - Managing member'
+Size: 27
+Back slot: 18
+Items:
+   Member:
+      Slot: 10
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&8Member'
+      Lore:
+      - ''
+      - '&7Click to set the role member for the player &f{nick}&7.'
+      - ''
+   Trusted:
+      Slot: 12
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&bTrusted'
+      Lore:
+      - ''
+      - '&7Click to set the role trusted for the player &f{nick}&7.'
+      - ''
+   Captain:
+      Slot: 14
+      CustomSkull: true #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 0
+      Data: 0
+      Glow: false
+      Name: '&bCaptain'
+      Lore:
+      - ''
+      - '&7Click to set the role captain for the player &f{nick}&7.'
+      - ''
+   Kick:
+      Slot: 16
+      CustomSkull: false #if true, active the URL and disable the id, data
+      URL: ''
+      ID: 166
+      Data: 0
+      Glow: false
+      Name: '&cKick'
+      Lore:
+      - ''
+      - '&7Click to kick the player &f{nick}&7.'
+      - ''  

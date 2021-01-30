@@ -1,0 +1,23 @@
+Name: '&8Clans > Confirmação'
+Size: 27
+Items:
+   Confirm:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/8e9b27fccd80921bd263c91dc511d09e9a746555e6c9cad52e8562ed0182a2f'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aConfirmar'
+      Lore:
+      - '&7Clique para confirmar a ação.'
+   Cancel:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/5fde3bfce2d8cb724de8556e5ec21b7f15f584684ab785214add164be7624b'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&cCancelar'
+      Lore:
+      - '&7Clique para cancelar.'

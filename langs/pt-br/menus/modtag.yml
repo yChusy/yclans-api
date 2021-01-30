@@ -1,0 +1,19 @@
+Name: '&8Clans > Mudar tag'
+Size: 27
+Back slot: 18
+Items:
+   Letter1:
+      Slot: 12
+      Name: '&7Letra: {letter}'
+      Lore:
+      - '&7Clique para mudar a cor dessa letra.'
+   Letter2:
+      Slot: 13
+      Name: '&7Letra: {letter}'
+      Lore:
+      - '&7Clique para mudar a cor dessa letra.'
+   Letter3:
+      Slot: 14
+      Name: '&7Letra: {letter}'
+      Lore:
+      - '&7Clique para mudar a cor dessa letra.'

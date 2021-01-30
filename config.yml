@@ -1,0 +1,8 @@
+Database:
+   Type: SQLITE #Types: MYSQL, SQLITE, MYSQL_FAST
+   IP: localhost:3306
+   DB: test
+   User: admin
+   Pass: ''
+   
+Lang: 'pt-br'

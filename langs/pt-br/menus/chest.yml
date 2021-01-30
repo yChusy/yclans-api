@@ -1,0 +1,27 @@
+Name: '&8Clans > Baú do clan'
+Size: 27
+Back slot: 18
+Items:
+   Historic:
+      Slot: 12
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/97a530f5c5742bf19e175a4d78ad435ac0f4396d3b5464bd6182ab382aca417d'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aHistórico'
+      Formats:
+         Open: '&7[{date}] {role} {player} &aabriu o baú.'
+         Close: '&7[{date}] {role} {player} &cfechou o báu.'
+         Nothing: '&cSeu clan ainda não possui um histórico.'
+   Chest:
+      Menu name: '&8Clans > Baú do clan > Baú'
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/95732d3e57b9a62159b35d2754574452a32b4c221fc4fd363bff522ff04a577e'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aBaú'
+      Lore:
+      - '&7Clique para abrir o baú do clan.'

@@ -1,0 +1,47 @@
+Market:
+   Name: '&8Clans - Mercado'
+   Size: 54
+   Back slot: 27
+   Items:
+      Precious stone:
+         Slot: 10
+         Price: 10000.0
+         CustomSkull: false
+         URL: ''
+         Name: '&cPedra preciosa'
+         ID: 1
+         Data: 0
+         Amount: 64
+         Lore:
+          - ''
+          - '&cCompre para ser um mago.'
+          - ''
+         Use lore price: true
+         Lore price:
+          - '&fPreço: 10000.0'
+         Enchants:
+          - 'DIG_SPEED:1'
+         Use command: false
+         Commands:
+          - ''
+      Diamond:
+         Slot: 11
+         Price: 10000000.0
+         CustomSkull: false
+         URL: ''
+         Name: '&bDIAMANTE!'
+         ID: 264
+         Data: 0
+         Amount: 64
+         Enchants: #se você não quer encantamentos coloque  - '', exemplo:
+          - ''
+         Lore:
+          - ''
+          - '&cCompre diamantes.'
+          - ''
+         Use lore price: true
+         Lore price:
+          - '&fPreço: 10000000.0'
+         Use command: true
+         Commands:
+          - 'give {player} diamond 64'

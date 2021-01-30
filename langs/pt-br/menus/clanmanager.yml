@@ -1,0 +1,64 @@
+Name: '&8Clans > Confirurar clan'
+Size: 27
+Back slot: 18
+Items:
+   Member:
+      Slot: 10
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/5e71ef39af4e33ebcf69a4be6379543c5015aaec76bab6fc3d862a75dfe3c47'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aGerenciar membros'
+      Lore:
+      - '&7Clique para gerenciar os membros.'
+   Roles:
+      Slot: 11
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/10d0eeac4dc45c628dec2949b67ef274130bcf7155348561e783cad5096d77f2'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aGerenciar cargos'
+      Lore:
+      - '&7Clique para gerenciar os cargos.'
+   Friendly fire:
+      Slot: 12
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/4d859f7b3cdfdad47182884e127f461fe8f9fc52f7d150427c117079b0924e3'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aFogo amigo'
+      Lore:
+      - '&7Clique para gerenciar o fogo amigo.'
+   Modtag:
+      Slot: 15
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/fd7e1737d7479c92ed06f6188cde454c08e6defead8c7ad996051ab03762d9e8'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMudar TAG'
+      Lore:
+      - '&7Clique para modificar a tag do clan.'
+   Transfer leadership:
+      Slot: 14
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/5538f0e2ad59558eb2da49e99348bbf53dd39a74f5eba19f4c3cacf10e802747'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aTransferir liderança'
+      Lore:
+      - '&7Clique para transferir a liderança do clan.'
+   Change name:
+      Slot: 16
+      CustomSkull: true
+      URL: 'http://textures.minecraft.net/texture/e0b62a3ab191e62db41111e3f3404818561d95fc18968bc6b4a5d0551cc740e8'
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aMudar nome'
+      Lore:
+      - '&7Clique para mudar o nome do clan.'

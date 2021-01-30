@@ -1,0 +1,29 @@
+Name: '&8Clans - Rivals'
+Back slot: 19
+Size: 36
+Slots: [12, 13, 14, 15, 16, 21, 22, 23, 24, 25]
+Items:
+   Add:
+      Slot: 10
+      CustomSkull: true
+      URL: ''
+      ID: 0
+      Data: 0
+      Glow: true
+      Name: '&aAdd rival'
+      Lore:
+      - ''
+      - '&7Click to add a rival'
+      - ''
+Banner:
+   Name: '&e[{tag}&e] {name}'
+   Lore:
+   - '&fLeader: {role} &f{nick}'
+   - '&fMembers ON: &7{on}/{total}'
+   - '&FMoney: &7{money}'
+   - '&fKills: &7{kills}'
+   - '&fDeaths: &7{deaths}'
+   - '&fKDR: &7{kdr}'
+   - '&fCreated on: &7{date} - {hour}'
+   - ''
+   - '&7Right click to remove rivalry'
